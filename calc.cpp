@@ -12,9 +12,18 @@ cin>>d;
 switch(d)
 {
 case 1:
- 
-}
-c=a+b;
+ c=a+b;
 cout<<"\n Sum is:"<<c;
+break;
+
+case 2:
+ c=a-b;
+cout<<"\n Sub is:"<<c;
+break;
+
+
+
+}
+
 return 0;
 }
