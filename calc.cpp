@@ -22,6 +22,16 @@ cout<<"\n Sub is:"<<c;
 break;
 
 
+case 3:
+ c=a*b;
+cout<<"\n mulis:"<<c;
+break;
+
+case 4:
+ c=a/b;
+cout<<"\n div is:"<<c;
+break;
+
 
 }
 
